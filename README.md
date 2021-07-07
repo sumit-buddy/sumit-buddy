@@ -1,7 +1,9 @@
+`[WARNING]` : **All repositories are full of shitty codes. Continue at your own risk.**
+
+
 ### Hello World 👋
 
 <pre>
-
 ┌──┤ WHOAMI ├───────────────▰▰▰
 │
 ├─▣ Student
